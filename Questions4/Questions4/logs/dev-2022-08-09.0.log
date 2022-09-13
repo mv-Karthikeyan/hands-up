@@ -1,0 +1,63 @@
+2022-08-09 23:50:36.738  INFO 19592 --- [restartedMain] com.jap.questions.QuestionsApplication   : Starting QuestionsApplication using Java 17.0.1 on SHLX0222 with PID 19592 (C:\Users\kishore.kumar.SHLX0222\eclipse-workspace\Questions4\target\classes started by kishore.kumar in C:\Users\kishore.kumar.SHLX0222\eclipse-workspace\Questions4)
+2022-08-09 23:50:36.740  INFO 19592 --- [restartedMain] com.jap.questions.QuestionsApplication   : No active profile set, falling back to 1 default profile: "default"
+2022-08-09 23:50:36.797  INFO 19592 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-08-09 23:50:36.797  INFO 19592 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-08-09 23:50:37.486  INFO 19592 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-08-09 23:50:43.349  INFO 18016 --- [restartedMain] com.jap.questions.QuestionsApplication   : Starting QuestionsApplication using Java 17.0.1 on SHLX0222 with PID 18016 (C:\Users\kishore.kumar.SHLX0222\eclipse-workspace\Questions4\target\classes started by kishore.kumar in C:\Users\kishore.kumar.SHLX0222\eclipse-workspace\Questions4)
+2022-08-09 23:50:43.350  INFO 18016 --- [restartedMain] com.jap.questions.QuestionsApplication   : No active profile set, falling back to 1 default profile: "default"
+2022-08-09 23:50:43.407  INFO 18016 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-08-09 23:50:43.407  INFO 18016 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-08-09 23:50:44.015  INFO 18016 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-08-09 23:50:44.083  INFO 18016 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 62 ms. Found 6 JPA repository interfaces.
+2022-08-09 23:50:44.354  INFO 18016 --- [restartedMain] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$EnhancerBySpringCGLIB$$9f8dd243] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-08-09 23:50:44.391  INFO 18016 --- [restartedMain] .w.s.a.s.AnnotationActionEndpointMapping : Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2022-08-09 23:50:44.685  INFO 18016 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9090 (http)
+2022-08-09 23:50:44.693  INFO 18016 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-08-09 23:50:44.693  INFO 18016 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-08-09 23:50:44.801  INFO 18016 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-08-09 23:50:44.802  INFO 18016 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1394 ms
+2022-08-09 23:50:44.931  INFO 18016 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-08-09 23:50:44.968  INFO 18016 --- [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.10.Final
+2022-08-09 23:50:45.090  INFO 18016 --- [restartedMain] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-08-09 23:50:45.180  INFO 18016 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-08-09 23:50:45.440  INFO 18016 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-08-09 23:50:45.453  INFO 18016 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2022-08-09 23:50:46.151  INFO 18016 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-08-09 23:50:46.157  INFO 18016 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-08-09 23:50:46.547  WARN 18016 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-08-09 23:50:46.834  INFO 18016 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-08-09 23:50:46.869  INFO 18016 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9090 (http) with context path ''
+2022-08-09 23:50:46.880  INFO 18016 --- [restartedMain] com.jap.questions.QuestionsApplication   : Started QuestionsApplication in 3.896 seconds (JVM running for 4.641)
+2022-08-09 23:50:50.859  INFO 18016 --- [RMI TCP Connection(2)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2022-08-09 23:50:50.885  INFO 18016 --- [RMI TCP Connection(2)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-08-09 23:50:50.888  INFO 18016 --- [RMI TCP Connection(2)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2022-08-09 23:50:50.895  INFO 18016 --- [RMI TCP Connection(2)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2022-08-09 23:56:56.919  INFO 24968 --- [restartedMain] com.jap.questions.QuestionsApplication   : Starting QuestionsApplication using Java 17.0.1 on SHLX0222 with PID 24968 (C:\Users\kishore.kumar.SHLX0222\eclipse-workspace\Questions4\target\classes started by kishore.kumar in C:\Users\kishore.kumar.SHLX0222\eclipse-workspace\Questions4)
+2022-08-09 23:56:56.921  INFO 24968 --- [restartedMain] com.jap.questions.QuestionsApplication   : No active profile set, falling back to 1 default profile: "default"
+2022-08-09 23:56:56.978  INFO 24968 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-08-09 23:56:56.978  INFO 24968 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-08-09 23:56:58.032  INFO 24968 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-08-09 23:56:58.116  INFO 24968 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 76 ms. Found 6 JPA repository interfaces.
+2022-08-09 23:56:58.395  INFO 24968 --- [restartedMain] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$EnhancerBySpringCGLIB$$26e9b936] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2022-08-09 23:56:58.438  INFO 24968 --- [restartedMain] .w.s.a.s.AnnotationActionEndpointMapping : Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2022-08-09 23:56:58.712  INFO 24968 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9090 (http)
+2022-08-09 23:56:58.719  INFO 24968 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-08-09 23:56:58.719  INFO 24968 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-08-09 23:56:58.816  INFO 24968 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-08-09 23:56:58.817  INFO 24968 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1837 ms
+2022-08-09 23:56:58.949  INFO 24968 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-08-09 23:56:58.991  INFO 24968 --- [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.6.10.Final
+2022-08-09 23:56:59.166  INFO 24968 --- [restartedMain] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-08-09 23:56:59.263  INFO 24968 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-08-09 23:56:59.540  INFO 24968 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2022-08-09 23:56:59.552  INFO 24968 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2022-08-09 23:57:00.285  INFO 24968 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-08-09 23:57:00.292  INFO 24968 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-08-09 23:57:00.706  WARN 24968 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-08-09 23:57:00.998  INFO 24968 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-08-09 23:57:01.034  INFO 24968 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9090 (http) with context path ''
+2022-08-09 23:57:01.043  INFO 24968 --- [restartedMain] com.jap.questions.QuestionsApplication   : Started QuestionsApplication in 4.465 seconds (JVM running for 5.263)
+2022-08-09 23:58:16.403  INFO 24968 --- [RMI TCP Connection(6)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2022-08-09 23:58:16.434  INFO 24968 --- [RMI TCP Connection(6)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-08-09 23:58:16.437  INFO 24968 --- [RMI TCP Connection(6)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2022-08-09 23:58:16.450  INFO 24968 --- [RMI TCP Connection(6)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
